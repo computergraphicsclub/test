@@ -1,2 +1,2 @@
-msg = "hello world"
+msg = "helloWorld"
 print msg
